@@ -21,4 +21,4 @@ Olá! Eu sou a Laiz Vanzo! 👋
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
 ##
-![snake animation](https://github.com/rafaballerini/laizvanzo/blog/outpu/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/laizvanzo/laizvanzo/blog/outpu/github-contribution-grid-snake.svg)
